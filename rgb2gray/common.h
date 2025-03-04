@@ -1,0 +1,1 @@
+void rgb2gray_gpu (unsigned char* red, unsigned char* green, unsigned char* blue, unsigned char* gray, unsigned int width, unsigned int height);
